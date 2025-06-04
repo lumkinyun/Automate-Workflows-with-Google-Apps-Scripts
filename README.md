@@ -182,25 +182,6 @@ After completing this workshop, participants will be able to:
 - **AI assistant access** (ChatGPT, Claude, etc.)
 - **Basic understanding** of data formats (CSV, JSON)
 
-## 📈 Advanced Features
-
-### AI-Powered Development
-- **Prompt engineering** for better code generation
-- **Code debugging** with AI assistance
-- **Custom function creation** using natural language
-
-### Integration Capabilities
-- **Cross-platform automation** between Google services
-- **Data synchronization** across multiple spreadsheets
-- **Webhook integration** for external services
-- **API connections** for extended functionality
-
-### Production Deployment
-- **Error handling** and logging strategies
-- **Performance optimization** for large datasets
-- **Security considerations** for automated workflows
-- **Monitoring and maintenance** best practices
-
 ## 📞 Support
 
 For questions or issues:
@@ -209,16 +190,6 @@ For questions or issues:
 - Review the module-specific tutorial documentation
 - Check the sample files for practical examples
 - Refer to [Google Apps Script documentation](https://developers.google.com/apps-script)
-
-### AI Assistance
-- Use the provided prompts with AI tools for code generation
-- Leverage AI for debugging and optimization
-- Ask AI to explain complex code sections
-
-### Community Resources
-- [Google Apps Script Community](https://developers.google.com/apps-script/guides/support)
-- [Stack Overflow](https://stackoverflow.com/questions/tagged/google-apps-script)
-- [Google Workspace Developer Blog](https://developers.googleblog.com/search/label/Google%20Apps%20Script)
 
 ## 🎯 Workshop Objectives
 
